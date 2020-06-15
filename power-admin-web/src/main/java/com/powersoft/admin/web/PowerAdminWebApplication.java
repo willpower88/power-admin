@@ -1,4 +1,4 @@
-package com.powersoft.admin.poweradminweb;
+package com.powersoft.admin.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
